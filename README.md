@@ -12,10 +12,10 @@ Python 3.6
 
 
 ## 第三方库
-- [requests]: 简单好用，功能强大的Http请求库
-- [urllib]: URL处理库
-- [pytesseract]: 文字识别库
-- [Pillow]: 图片处理
+- [requests][1]: 简单好用，功能强大的Http请求库
+- [urllib][2]: URL处理库
+- [pytesseract][3]: 文字识别库
+- [Pillow][4]: 图片处理
 
 
 ## 使用帮助
